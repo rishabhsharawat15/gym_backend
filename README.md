@@ -12,6 +12,4 @@ To set up and run the backend locally, please follow the instructions below:
 
 The backend server will be running at `http://localhost:5000`.
 
-You can access it at https://smalik21.github.io/gym-portal/.
-
-For more details on the GYM Management System and its features, please refer to the frontend project repository: https://github.com/smalik21/gym-portal
+For more details on the GYM Management System and its features, please refer to the frontend project repository: https://github.com/rishabhsharawat15/gym_portal_frontend
